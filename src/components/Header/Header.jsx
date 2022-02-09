@@ -1,6 +1,6 @@
 
-import { constants as c } from "../constants";
-
+import { constants as c } from "../../constants";
+import "../Header/Header.css"
 export default function Header(props){
 
     function HandleOpenLoginForm(e){

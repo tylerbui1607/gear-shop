@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Popup } from "../../components/Popup/Popup"
-import Header from "../../components/Header"
+import Header from "../../components/Header/Header"
 import Banner from "./child/Banner"
 
 function HomePage(){
